@@ -1,4 +1,9 @@
-### Hi, I`m Konstantin 👋
+### Привет, меня зовут Константин 👋
+Я начинающий backend-разработчик. 
+
+Мой стек: Python, Django Framework, SQLite, PostgreSQL, REST API, pytest, Docker, Linux, Nginx
+
+
 
 <!--
 **KAbashin/KAbashin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
