@@ -1,5 +1,5 @@
 ### Привет, меня зовут Константин 👋
-Я начинающий backend-разработчик. 
+Я backend-разработчик. 
 
 Мой стек: Python, Django Framework, SQLite, PostgreSQL, REST API, pytest, Docker, Linux, Nginx
 
